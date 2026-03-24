@@ -1,4 +1,4 @@
-01
+// 01_extract_envoiron_vars
 
 // Filter ERA5 collection by years of interest
 var era5 = ee.ImageCollection('ECMWF/ERA5/MONTHLY')
