@@ -4,6 +4,7 @@ Malaria transmission in the Brazilian Amazon
 This repository contains code to reproduce the analysis in the paper "Resurgence of malaria in protected and rural areas after successful control program in a Brazilian Amazon municipality" by Skinner and Angeli Dutra et al.
 
 Contents
+
 01_extract_environ_vars.js: Google Earth Engine script to extract environmental variables
 
 02_process_environ_data.R: Clean and merge environmental data with case data
